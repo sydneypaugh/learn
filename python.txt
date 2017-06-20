@@ -3,3 +3,4 @@ Python Learning Plan
 1. Array indexing in numpy
 2. Get better at plotting with matplotlib
 3. Look into pandas library
+4. Import Excel spreadsheets
